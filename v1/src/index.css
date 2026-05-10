@@ -1,0 +1,18 @@
+:root {
+  --terra: #C4784A;
+  --rose-dust: #D4A89A;
+  --sage: #8A9E7E;
+  --ivory: #F5EFE4;
+  --parchment: #EDE3D3;
+  --ink: #2C2118;
+  --muted: #7A6A5A;
+  --gold: #B8965A;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #2C2118;
+  overflow-x: hidden;
+  cursor: none;
+}

@@ -1,0 +1,6 @@
+[
+  { "folder": "v1", "name": "Plutarch Direction", "date": "May 2026", "port": 3001 },
+  { "folder": "v2", "name": "Injiri Direction",   "date": "May 2026", "port": 3002 },
+  { "folder": "v3", "name": "Maison Direction",   "date": "May 2026", "port": 3003 },
+  { "folder": "v4", "name": "Journal Direction",  "date": "May 2026", "port": 3004 }
+]

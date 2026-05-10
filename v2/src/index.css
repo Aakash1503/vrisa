@@ -1,0 +1,41 @@
+:root {
+  --terra: #C4784A;
+  --rose-dust: #D4A89A;
+  --ivory: #F5EFE4;
+  --parchment: #F0E8D8;
+  --ink: #2C2118;
+  --muted: #7A6A5A;
+  --gold: #B8965A;
+  --deep: #1E140C;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  background: #1E140C;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+  cursor: none;
+  font-family: 'Jost', sans-serif;
+}
+
+#root {
+  width: 100%;
+  height: 100vh;
+}
